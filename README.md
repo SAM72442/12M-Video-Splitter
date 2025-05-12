@@ -16,4 +16,4 @@ This application is a simple video editor with minimal features as follows:
 
 ## Description: (Note from Developer)
 
-This application operates on limited video editing functionalities cause its _**<u>developed to edit YT Shorts Videos quickly</u>**_ considering minimal requirements demanded by the user to be a _**lightweight application**_.
+This application operates on limited video editing functionalities cause its _**developed to edit YT Shorts Videos quickly**_ considering minimal requirements demanded by the user to be a _**lightweight application**_.
