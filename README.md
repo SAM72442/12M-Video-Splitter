@@ -4,6 +4,12 @@ This application is a simple video editor with minimal features as follows:
 
     - Resize to 1080p
     - Crop to 9:16
+    - Video Editing Features:
+        - Splitting
+        - Deleting a Segment
+        - Forward/Backward (10s, 5s, 0.1s)
+        - Undo/Redo
+        - Goto
     - Download Video: (in Sub-Directory of imported Video)
         1. Merge and Download
         2. Separately Download all splitted segments
